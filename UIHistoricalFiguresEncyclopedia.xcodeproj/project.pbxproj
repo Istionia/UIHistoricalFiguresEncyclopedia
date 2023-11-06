@@ -50,6 +50,7 @@
 		1C8AF3BF2AB9EB500086B0F1 /* UIHistoricalFiguresEncyclopediaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHistoricalFiguresEncyclopediaUITests.swift; sourceTree = "<group>"; };
 		1C8AF3C12AB9EB500086B0F1 /* UIHistoricalFiguresEncyclopediaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHistoricalFiguresEncyclopediaUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B04DED5B2AF024550008C871 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B08EB77E2AF5DDC000A146E7 /* HistoricalFigures.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = HistoricalFigures.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +81,8 @@
 		1C8AF3922AB9EB480086B0F1 = {
 			isa = PBXGroup;
 			children = (
+				B04DED5B2AF024550008C871 /* README.md */,
+				B08EB77E2AF5DDC000A146E7 /* HistoricalFigures.json */,
 				1C8AF39D2AB9EB480086B0F1 /* UIHistoricalFiguresEncyclopedia */,
 				1C8AF3B42AB9EB500086B0F1 /* UIHistoricalFiguresEncyclopediaTests */,
 				1C8AF3BE2AB9EB500086B0F1 /* UIHistoricalFiguresEncyclopediaUITests */,
@@ -101,7 +104,6 @@
 			isa = PBXGroup;
 			children = (
 				1C8AF39E2AB9EB480086B0F1 /* AppDelegate.swift */,
-				B04DED5B2AF024550008C871 /* README.md */,
 				1C8AF3A02AB9EB480086B0F1 /* SceneDelegate.swift */,
 				1C8AF3A22AB9EB480086B0F1 /* ViewController.swift */,
 				1C8AF3A42AB9EB480086B0F1 /* Main.storyboard */,
